@@ -80,7 +80,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://github.com/alan-vinzant/alan-vinzant.github.io/rob/main/VinzantCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/alan-vinzant/alan-vinzant.github.io/raw/main/VinzantCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PCR',
