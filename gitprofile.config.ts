@@ -83,20 +83,12 @@ const CONFIG = {
       'https://github.com/alan-vinzant/alan-vinzant.github.io/rob/main/VinzantCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'PCR',
+    'Agarose Gel',
+    'Bioinformatics',
+    'Field notetaking',
+    'Redox reactions',
+    'Herbarium collections',
   ],
   experiences: [
     {
@@ -124,16 +116,16 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'California State University Stanislaus',
+      degree: 'B. S. Biological Sciences',
+      from: '2023',
+      to: '2025',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'San Joaquin Delta College',
+      degree: 'A. S. Science and Mathematics',
+      from: '2016',
+      to: '2018',
     },
   ],
   publications: [
