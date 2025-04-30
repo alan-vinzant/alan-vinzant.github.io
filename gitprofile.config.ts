@@ -33,20 +33,20 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Observing Seasonal Differences in Red Hills Roach Behavior',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'The red hills roach is a small cyprinid fish that is endemic to perennial pools in California. Very little is recorded on these fish, and their limited habitat makes them of concern for conservation.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/alan-vinzant/alan-vinzant.github.io/raw/main/Individual%20Project%20-%20Alan%20Vinzant%20-%20Red%20Hills.png',
+          link: 'https://github.com/alan-vinzant/alan-vinzant.github.io/raw/main/Observing%20Seasonal%20Differences%20in%20Red%20Hills%20Roach%20Behavior.pdf',
         },
         {
-          title: 'Project Name',
+          title: 'Invasive Characteristics of Opossum Shrimp in North America',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Opossum shrimp of the order Mysida have nbeen introduced, both deliberately and accidentally, to detrimental effect. This infographic helps to identify the cause of the problem and possible avenues to a solution.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/alan-vinzant/alan-vinzant.github.io/raw/main/Screenshot%202025-04-30%20092250.png',
+          link: 'https://github.com/alan-vinzant/alan-vinzant.github.io/raw/main/Opossum%20Shrimp%20Invasive%20Species.pdf',
         },
       ],
     },
