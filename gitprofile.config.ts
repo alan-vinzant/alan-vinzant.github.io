@@ -135,7 +135,7 @@ const CONFIG = {
       conferenceName: '',
       journalName: 'Microbiology Resource Announcement',
       authors: 'Ciara Blanco, Vignesh Lal, Evelyn Valdovinos, Alan Vinzant',
-      link: 'https://github.com/alan-vinzant/alan-vinzant.github.io/raw/main/MRA_Announcement_Phascolarctos_faecium.pdf',
+      link: 'https://github.com/alan-vinzant/alan-vinzant.github.io/raw/main/MRA_Announcement_Phascolarctos_faecium_(1).pdf',
       description:
         'This is a manuscript in preparation. Phascolarctobacterium faecium was originally isolated from koala feces in 1992. Here, we sequence and analyze the type strain, with a length of 2,317,131 bp, 27 contigs, and average G+C content of 43.73%, and three virulence factors that are potential health hazards to humans',
     },
