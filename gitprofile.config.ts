@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['alan-vinzant/genome-assembly-and-annotation', 'alan-vinzant/microbiometutorial'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['alan-vinzant/genome-assembly-and-annotation', 'alan-vinzant/microbiomesectionreport'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
